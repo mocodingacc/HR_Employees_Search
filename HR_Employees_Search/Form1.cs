@@ -1,4 +1,6 @@
 ﻿/**
+ * Author
+ * Mohamed
  * 
  * Multi Browse Button
  * https://www.c-sharpcorner.com/UploadFile/mahesh/openfiledialog-in-C-Sharp/
